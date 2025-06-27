@@ -13,6 +13,7 @@ public void Apples()
 public void Mangoes()
 {
 	  System.out.println("Mangoes");
+	  System.out.println("Mangoes");
 }
 public void Oranges()
 {
