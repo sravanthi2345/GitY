@@ -7,5 +7,6 @@ public class Vegetables {
 public void Brinjal()
 {
 	System.out.println("Brinjal");
+	System.out.println("Brinjal");
 }
 }
