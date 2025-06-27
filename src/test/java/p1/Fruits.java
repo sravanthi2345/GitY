@@ -7,6 +7,8 @@ public class Fruits {
 public void Apples()
 {
 	  System.out.println("Apples");
+	  System.out.println("Apples");
+	  System.out.println("Apples");
 }
 public void Mangoes()
 {
